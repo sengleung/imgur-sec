@@ -13,13 +13,11 @@ Image galleries are managed as groups with encrypted commenting between users.
 * Add and remove users from group
 * Stores group encryption keys and user access tokens in database
 
+*decrypted comments on application*  
 <img src="https://github.com/sengleung/imgur-sec/blob/master/img/imgur-sec-1.png" width="600">
 
-*decrypted comments on application*
-
+*ciphertext on Imgur*  
 <img src="https://github.com/sengleung/imgur-sec/blob/master/img/imgur-sec-2.png" width="600">
-
-*ciphertext on Imgur*
 
 ## Technologies
 
